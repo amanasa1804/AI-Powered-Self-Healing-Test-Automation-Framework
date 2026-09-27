@@ -1,0 +1,7 @@
+{
+    "loginPage": {
+        "usernameInput" : "input[name='username']",
+        "passwordInput" : "input[name='password']",
+        "loginButton" : "button[type='wrong']"
+      }
+}
